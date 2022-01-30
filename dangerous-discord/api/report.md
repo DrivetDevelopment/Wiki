@@ -2,7 +2,7 @@
 title: Dangerous Discord API - Report a user
 description: 
 published: true
-date: 2022-01-30T14:58:31.870Z
+date: 2022-01-30T16:17:53.808Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-30T14:58:25.719Z
@@ -26,7 +26,7 @@ Send a POST request to `https://discord.drivet.xyz/api/report` with the followin
 {
     "token": "dd._0MpykT1Mtq7wWRDblNoZ4bGuTEF9MXE9",
     "id": "267386908382855169",
-  	"type": "this is optional but valid ones are: Advertising, Spamming, Raiding, Harassing, Other".
+  	"type": "this is optional but valid ones are: Advertising, Spamming, Raiding, Harassing, Other",
   	"reason": "Racist"
 }
 ```

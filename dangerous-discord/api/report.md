@@ -2,7 +2,7 @@
 title: Dangerous Discord API - Report a user
 description: 
 published: true
-date: 2022-01-30T16:17:53.808Z
+date: 2022-02-01T05:57:47.049Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-30T14:58:25.719Z
@@ -18,7 +18,7 @@ Skip this step if you already have an API key
 
 Login to [Dangerous Discord](https://discord.drivet.xyz) and then head to the [API page](https://discord.drivet.xyz/profile/api). Click on the `Get an API key` button
 
-![image.png](/image.png)
+![dd-api-key.png](/dd-api-key.png)
 
 ## Step 2
 Send a POST request to `https://discord.drivet.xyz/api/report` with the following example body:

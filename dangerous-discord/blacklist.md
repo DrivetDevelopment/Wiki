@@ -2,7 +2,7 @@
 title: Dangerous Discord - Blacklist
 description: 
 published: true
-date: 2022-03-08T19:37:38.418Z
+date: 2022-03-08T19:37:58.255Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-01T05:55:51.141Z
@@ -14,7 +14,7 @@ dateCreated: 2022-02-01T05:55:51.141Z
 {.is-info}
 
 
-If you have found a user that needs to be blacklisted for a reason or two. You can contact us at: [aleksi@drivet.xyz](mailto:aleksi@drivet.xyz) if you wish to blacklist someone.. 
+If you have found a user that needs to be blacklisted for a reason or two. You can contact us at: [aleksi@drivet.xyz](mailto:aleksi@drivet.xyz) if you wish to blacklist someone.
 
 We also highly recommend to report the user to Discord by [submitting a request](https://support.discord.com/hc/en-us/requests/new) on their support site
 

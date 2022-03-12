@@ -2,7 +2,7 @@
 title: Dangerous Discord - Whitelist
 description: 
 published: true
-date: 2022-03-12T22:19:38.108Z
+date: 2022-03-12T22:20:06.312Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-10T14:10:05.162Z
@@ -26,5 +26,5 @@ At this time, we won't whitelist any unknown bots. We are looking to make change
 
 ## Contact
 We highly recommend contacting us by using Email only.
-- Discord: https://discord.gg/sjMKGhPQjE
+- Discord: https://discord.gg/NshzB4jt8K
 - Email: [aleksi@drivet.xyz](mailto:aleksi@drivet.xyz)

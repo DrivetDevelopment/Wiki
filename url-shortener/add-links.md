@@ -2,13 +2,16 @@
 title: URL Shortener - Add Links
 description: 
 published: true
-date: 2022-01-30T14:57:45.937Z
+date: 2022-03-13T15:30:13.050Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-30T14:57:39.982Z
 ---
 
 # Add Links to URL Shortener
+> Drivet URL Shortener does not exist anymore, and we have no plans to bring it back until further notice. Feel free to give feedback regarding this via email [aleksi@drivet.xyz](mailto:aleksi@drivet.xyz).
+{.is-danger}
+
 This tutorial will help you to shorten urls using Drivet's URL Shortener
 
 > This is a "API" documentation for developers. Please visit https://shorten.drivet.xyz to create urls faster.

@@ -13,7 +13,7 @@ dateCreated: 2022-03-13T16:21:00.128Z
 {.is-info}
 
 ## Step 1
-Send a GET request to `https://dangerousdiscord.com/api/check` and add the users id as a param `?id=267386908382855169`.
+Send a GET request to `https://dangerousdiscord.com/api/check` and add the User ID as a param `?id=267386908382855169`.
 You should get a response back like this:
 ```json
 {

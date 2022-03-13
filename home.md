@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-01-30T16:23:50.614Z
+date: 2022-03-13T15:42:11.436Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-30T14:56:18.986Z
@@ -15,8 +15,8 @@ Welcome to Drivet's official Wiki!
 {.is-info}
 
 ## Helpful links
+
 - [Website](https://drivet.xyz)
 - [Blog](https://blog.drivet.xyz)
 - [System Status](https://status.drivet.xyz)
-- [System Monitors](https://monitor.drivet.xyz)
 - [Twitter](https://twitter.com/DrivetHQ)

@@ -2,7 +2,7 @@
 title: Dangerous Discord API
 description: 
 published: true
-date: 2022-05-26T15:18:34.403Z
+date: 2022-05-26T15:19:37.679Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T13:57:03.194Z
@@ -27,6 +27,6 @@ Errors always returns a object that looks like the one below.
 { 
 	error: true,
 	code: 400, 
-  message: 'User ID must be a number only'
+	message: 'User ID must be a number only'
 }
 ```

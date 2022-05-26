@@ -2,7 +2,7 @@
 title: Dangerous Discord API
 description: 
 published: true
-date: 2022-05-26T15:19:39.536Z
+date: 2022-05-26T17:49:19.691Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T13:57:03.194Z
@@ -30,3 +30,12 @@ Errors always returns a object that looks like the one below.
 	message: 'User ID must be a number only'
 }
 ```
+
+## API Versions
+<ul class="links-list">
+  <li>
+    <a href="/dangerousdiscord/api/v1" class="is-internal-link">
+      Version 1 <em>current</em>
+    </a>
+  </li>
+</ul>

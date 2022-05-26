@@ -2,7 +2,7 @@
 title: v1 User
 description: 
 published: true
-date: 2022-05-26T16:28:05.603Z
+date: 2022-05-26T16:28:41.329Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T15:33:08.296Z
@@ -58,10 +58,10 @@ Returns a [user](#user-object) object for a given user ID.
 <br>
 
 ### JSON Params
-| field    | type    | description                                           | default |
-|----------|---------|-------------------------------------------------------|---------|
-| category | integer | A category integer from [category choices](#category-choices) | Other   |
-| reason   | string  | Report's reason. Minimum 10 characters                | -       |
+| field    | type    | description                                                   | default |
+|----------|---------|---------------------------------------------------------------|---------|
+| category | integer | A category integer from [category choices](#category-choices) | 0       |
+| reason   | string  | Report's reason. Minimum 10 characters                        | -       |
 
 <br>
 

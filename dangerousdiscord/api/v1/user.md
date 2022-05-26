@@ -2,7 +2,7 @@
 title: v1 User
 description: 
 published: true
-date: 2022-05-26T15:50:32.733Z
+date: 2022-05-26T15:51:19.563Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T15:33:08.296Z
@@ -41,6 +41,7 @@ dateCreated: 2022-05-26T15:33:08.296Z
 | downvotes | integer | integer of downvotes received |
 
 
+# Resources
 
 ## Get Current User
 `GET` /user/@me

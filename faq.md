@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: 
 published: true
-date: 2022-05-25T13:27:29.127Z
+date: 2022-05-26T08:44:44.473Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-25T13:06:33.850Z
@@ -16,3 +16,6 @@ Currently I don't pay anything for servers. I use a server donated by my friend 
 
 ## How much bandwidth does your servers use
 You can view our website/server thats on our HetrixTools monitoring page: https://monitor.drivet.xyz
+
+## Does Drivet support crypto/nft's
+No, our team does not have any braindead people.

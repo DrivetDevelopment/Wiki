@@ -2,10 +2,10 @@
 title: Dangerous Discord API - Check a user
 description: 
 published: true
-date: 2022-03-16T14:16:56.636Z
+date: 2022-05-25T13:06:50.128Z
 tags: 
 editor: markdown
-dateCreated: 2022-03-13T15:32:41.998Z
+dateCreated: 2022-05-25T13:06:48.180Z
 ---
 
 # Check the reports of a user using the API

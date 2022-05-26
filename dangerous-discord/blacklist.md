@@ -2,10 +2,10 @@
 title: Dangerous Discord - Blacklist
 description: 
 published: true
-date: 2022-03-12T22:20:50.357Z
+date: 2022-05-25T13:06:41.612Z
 tags: 
 editor: markdown
-dateCreated: 2022-02-01T05:55:51.141Z
+dateCreated: 2022-05-25T13:06:39.641Z
 ---
 
 # Request a blacklist for a user

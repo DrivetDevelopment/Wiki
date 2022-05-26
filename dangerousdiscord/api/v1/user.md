@@ -2,7 +2,7 @@
 title: v1 User
 description: 
 published: true
-date: 2022-05-26T15:50:00.647Z
+date: 2022-05-26T15:50:32.733Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T15:33:08.296Z
@@ -14,7 +14,9 @@ dateCreated: 2022-05-26T15:33:08.296Z
 [https://discord.drivet.xyz/api/v1](https://discord.drivet.xyz/api/v1)
 {.is-info}
 
-# User Object
+# Reference
+
+## User Object
 | field         | type      | description                                     |
 |---------------|-----------|-------------------------------------------------|
 | id            | snowflake | the user's id                                   |
@@ -25,14 +27,14 @@ dateCreated: 2022-05-26T15:33:08.296Z
 | badges?       | array     | an array of [badges](#user-badges)              |
 | votes         | array     | an array of [votes](#user-votes)                |
 
-# User badges
+## User badges
 | field        | type    | description                                               |
 |--------------|---------|-----------------------------------------------------------|
 | blacklisted? | boolean | whether the user is blacklisted                           |
 | whitelisted? | boolean | whether the user is whitelisted                           |
 | admin?       | boolean | whether the user is an Administrator on Dangerous Discord |
 
-# User votes
+## User votes
 | field     | type    | description                   |
 |-----------|---------|-------------------------------|
 | upvotes   | integer | integer of upvotes recieved   |

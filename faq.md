@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: 
 published: true
-date: 2022-05-26T08:44:44.473Z
+date: 2022-05-26T08:51:02.471Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-25T13:06:33.850Z
@@ -11,11 +11,11 @@ dateCreated: 2022-05-25T13:06:33.850Z
 # ~~Frequently~~ Least Asked Questions
 Some questions that i managed to get out of my head
 
-## How do you pay for servers
+## How do you pay for servers?
 Currently I don't pay anything for servers. I use a server donated by my friend for Dangerous Discord and i use Oracle Cloud for other stuff. I pay about 10€ yearly for the domain
 
-## How much bandwidth does your servers use
+## How much bandwidth does your servers use?
 You can view our website/server thats on our HetrixTools monitoring page: https://monitor.drivet.xyz
 
-## Does Drivet support crypto/nft's
-No, our team does not have any braindead people.
+## Does Drivet support crypto?
+No, and we never will support crypto. All that stuff is bad for the environment. Google it yourself!

@@ -2,7 +2,7 @@
 title: v1 User
 description: 
 published: true
-date: 2022-05-26T15:52:17.906Z
+date: 2022-05-26T15:53:49.668Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T15:33:08.296Z
@@ -28,10 +28,10 @@ dateCreated: 2022-05-26T15:33:08.296Z
 <br>
 
 ### JSON Params
-| field    | type   | description                            | default |
-|----------|--------|----------------------------------------|---------|
-| category | string | One category from category list        | Other   |
-| reason   | string | Report's reason. Minimum 10 characters | -       |
+| field    | type   | description                                           | default |
+|----------|--------|-------------------------------------------------------|---------|
+| category | string | A category from [category choices](#category-choices) | Other   |
+| reason   | string | Report's reason. Minimum 10 characters                | -       |
 
 <br>
 

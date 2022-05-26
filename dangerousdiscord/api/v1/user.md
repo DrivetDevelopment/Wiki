@@ -2,7 +2,7 @@
 title: v1 User
 description: 
 published: true
-date: 2022-05-26T15:38:50.430Z
+date: 2022-05-26T15:50:00.647Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T15:33:08.296Z
@@ -15,6 +15,28 @@ dateCreated: 2022-05-26T15:33:08.296Z
 {.is-info}
 
 # User Object
+| field         | type      | description                                     |
+|---------------|-----------|-------------------------------------------------|
+| id            | snowflake | the user's id                                   |
+| username      | string    | the user's name                                 |
+| avatar        | ?string   | the user's avatar hash                          |
+| discriminator | string    | the user's 4-digit discord tag                  |
+| reports       | integer   | Shows how many times the user has been reported |
+| badges?       | array     | an array of [badges](#user-badges)              |
+| votes         | array     | an array of [votes](#user-votes)                |
+
+# User badges
+| field        | type    | description                                               |
+|--------------|---------|-----------------------------------------------------------|
+| blacklisted? | boolean | whether the user is blacklisted                           |
+| whitelisted? | boolean | whether the user is whitelisted                           |
+| admin?       | boolean | whether the user is an Administrator on Dangerous Discord |
+
+# User votes
+| field     | type    | description                   |
+|-----------|---------|-------------------------------|
+| upvotes   | integer | integer of upvotes recieved   |
+| downvotes | integer | integer of downvotes received |
 
 
 

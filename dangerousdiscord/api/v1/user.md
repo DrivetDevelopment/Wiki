@@ -2,7 +2,7 @@
 title: v1 User
 description: 
 published: true
-date: 2022-05-26T15:53:49.668Z
+date: 2022-05-26T15:55:58.351Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T15:33:08.296Z
@@ -36,6 +36,7 @@ dateCreated: 2022-05-26T15:33:08.296Z
 <br>
 
 ### Category choices
+Category can be lowercase or uppercase or as below. Incorrect categories will be `Other` by default.
 - Advertising
 - Spamming
 - Raiding

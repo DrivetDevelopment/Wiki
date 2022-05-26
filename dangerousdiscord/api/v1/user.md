@@ -2,7 +2,7 @@
 title: v1 User
 description: 
 published: true
-date: 2022-05-26T16:16:29.520Z
+date: 2022-05-26T16:16:50.844Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T15:33:08.296Z
@@ -18,10 +18,12 @@ dateCreated: 2022-05-26T15:33:08.296Z
 
 ## Get Current User
 `GET` /user/@me
+
 Returns a [user](#user-object) object of the requester account.
 
 ## Get User
 `GET` /user/:user_id
+
 Returns a [user](#user-object) object for a given user ID.
 
 ## Report User

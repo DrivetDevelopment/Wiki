@@ -58,12 +58,16 @@ Returns a [user](#user-object) object for a given user ID.
 <br>
 
 ### JSON Params
-| field    | type    | description                                                   | default |
-|----------|---------|---------------------------------------------------------------|---------|
-| category | integer | A category integer from [category choices](#category-choices) | 0       |
-| reason   | string  | Report's reason. Minimum 10 characters                        | -       |
+| field    | type    | description                                                                         | default |
+|----------|---------|-------------------------------------------------------------------------------------|---------|
+| author   | string  | The author of the report, this field requires a [**TRUSTED TOKEN**](#trusted-tokens)| -       |
+| category | integer | A category integer from [category choices](#category-choices)                       | 0       |
+| reason   | string  | Report's reason. Minimum 10 characters                                              | -       |
 
 <br>
+
+> Trying to use the `author` field without an Trusted Token will result in an `403` error!
+{.is-warning}
 
 ### Category choices
 - Other: `0`
@@ -71,3 +75,6 @@ Returns a [user](#user-object) object for a given user ID.
 - Spamming: `2`
 - Raiding: `3`
 - Harassing: `4`
+
+## Trusted Tokens
+An trusted token is given only to trusted users, they are provided directly by the **Dangerous Discord** staff!

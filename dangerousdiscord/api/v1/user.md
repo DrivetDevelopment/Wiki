@@ -17,15 +17,15 @@ dateCreated: 2022-05-26T15:33:08.296Z
 # Objects
 
 ## User Object
-| field         | type      | description                                     |
-|---------------|-----------|-------------------------------------------------|
-| id            | snowflake | the user's id                                   |
-| username      | string    | the user's name                                 |
-| avatar        | ?string   | the user's avatar hash                          |
-| discriminator | string    | the user's 4-digit discord tag                  |
-| reports       | integer   | Shows how many times the user has been reported |
-| badges?       | array     | an array of [badges](#user-badges)              |
-| votes         | array     | an array of [votes](#user-votes)                |
+| field         | type                   | description                                                     |
+|---------------|------------------------|-----------------------------------------------------------------|
+| id            | snowflake              | the user's id                                                   |
+| username      | string                 | the user's name                                                 |
+| avatar        | ?string                | the user's avatar hash                                          |
+| discriminator | string                 | the user's 4-digit discord tag                                  |
+| reports       | integer                | shows how many times the user has been reported                 |
+| badges?       | [badges](#user-badges) | an object containing the user badges                            |
+| votes         | [votes](#user-votes)   | an object containing the user votes                             |
 
 ## User badges
 | field        | type    | description                                               |

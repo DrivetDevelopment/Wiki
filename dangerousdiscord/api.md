@@ -10,11 +10,11 @@ dateCreated: 2022-05-26T13:57:03.194Z
 
 # API
 > Base URL:
-[https://discord.drivet.xyz/api](https://discord.drivet.xyz/api)
+[https://dangerousdiscord.com/api](https://dangerousdiscord.com/api)
 {.is-info}
 
 ## API Key
-To use the API, you need an API Key. You can obtain one [here](https://discord.drivet.xyz/profile/api)
+To use the API, you need an API Key. You can obtain one [here](https://dangerousdiscord.com/profile/api)
 
 For every API route, your request must have the `Authorization` header as a `Bearer` key
 ```

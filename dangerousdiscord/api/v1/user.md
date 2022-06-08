@@ -11,7 +11,7 @@ dateCreated: 2022-05-26T15:33:08.296Z
 # API v1
 
 > Base URL:
-[https://discord.drivet.xyz/api/v1](https://discord.drivet.xyz/api/v1)
+[https://dangerousdiscord.com/api/v1](https://dangerousdiscord.com/api/v1)
 {.is-info}
 
 # Objects

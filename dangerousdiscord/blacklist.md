@@ -2,7 +2,7 @@
 title: Dangerous Discord - Blacklist
 description: 
 published: true
-date: 2022-07-14T11:09:13.133Z
+date: 2022-07-14T11:11:09.536Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T10:44:44.313Z
@@ -13,7 +13,7 @@ dateCreated: 2022-05-27T10:44:44.313Z
 > **Note:** Users can be only blacklisted by Dangerous Discord staff.
 {.is-info}
 
-If you have found a user that needs to be blacklisted for a reason or two. You can contact us by joining our Discord server: https://discord.gg/NshzB4jt8K
+If you have found a user that needs to be blacklisted for a reason or two. You can contact us by joining our Discord server: https://discord.gg/NshzB4jt8K. We will need to get some proof in order to blacklist the user, so be ready to provide any image proof.
 
 You can also contact us by email: [aleksi@drivet.xyz](mailto:aleksi@drivet.xyz)
 

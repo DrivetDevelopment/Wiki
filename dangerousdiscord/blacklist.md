@@ -2,7 +2,7 @@
 title: Dangerous Discord - Blacklist
 description: 
 published: true
-date: 2022-06-06T20:18:13.994Z
+date: 2022-07-14T11:09:13.133Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T10:44:44.313Z
@@ -21,8 +21,8 @@ We also highly recommend to report the user to Discord by [submitting a request]
 
 
 ## What kind of users we do not blacklist
-- Spam bots (too common)
-- BOT Accounts (the bot may have been hijacked)
+- DM advertisers (not dangerous, just report the user as spammer)
+- BOT Accounts (the bot may have been hijacked, different case if the bot is made for verification scams)
 
 ## Blacklist badge
 ![dd-blacklisted-user.png](/dd-blacklisted-user.png)

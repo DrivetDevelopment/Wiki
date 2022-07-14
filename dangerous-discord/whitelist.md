@@ -2,10 +2,10 @@
 title: Dangerous Discord - Whitelist
 description: 
 published: true
-date: 2022-05-25T13:06:44.422Z
+date: 2022-07-14T11:11:59.421Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-25T13:06:42.463Z
+dateCreated: 2022-05-27T10:44:46.610Z
 ---
 
 # Request a whitelist
@@ -22,4 +22,5 @@ Dangerous Discord does not tolerate bullying, and we will always remove all fake
 At this time, we won't whitelist any unknown bots. We are looking to make changes on this! Feel free to contact us though, and we will make a decision.
 
 ## What kind of users we do not whitelist
+- No any good reason to whitelist
 - Users that are already blacklisted

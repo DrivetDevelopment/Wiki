@@ -2,7 +2,7 @@
 title: User | v1
 description: 
 published: true
-date: 2022-07-25T21:14:59.176Z
+date: 2022-07-25T21:15:47.975Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T10:45:00.217Z
@@ -46,7 +46,6 @@ dateCreated: 2022-05-27T10:45:00.217Z
 | field     | type    | description                                         |
 |-----------|---------|-----------------------------------------------------|
 | spammer   | boolean | whether the user is flagged as a spammer by Discord |
-| downvotes | integer | integer of downvotes received                       |
 
 # Resources
 

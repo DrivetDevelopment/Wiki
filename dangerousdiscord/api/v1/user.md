@@ -2,7 +2,7 @@
 title: User | v1
 description: 
 published: true
-date: 2022-07-25T21:17:34.015Z
+date: 2022-07-25T21:17:45.168Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T10:45:00.217Z
@@ -24,7 +24,7 @@ dateCreated: 2022-05-27T10:45:00.217Z
 | avatar        | ?string                       | the user's avatar hash                                          |
 | discriminator | string                        | the user's 4-digit discord tag                                  |
 | reports       | integer                       | shows how many times the user has been reported                 |
-| last_reported       | integer                       | shows when the user has been last reported if reported                 |
+| last_reported       | timestamp                       | shows when the user has been last reported if reported                 |
 | badges?       | [badges](#user-badges) object | an object containing the user badges                            |
 | votes         | [votes](#user-votes) object   | an object containing the user votes                             |
 | flags         | [flags](#user-flags) object   | an object containing some user flags provided by Discord                             |
